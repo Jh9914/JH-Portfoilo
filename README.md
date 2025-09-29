@@ -12,7 +12,7 @@ GitHub Pages로 배포하여 어디서든 가볍게 확인할 수 있습니다.
   <img alt="License" src="https://img.shields.io/badge/License-MIT-000000.svg">
 </p>
 
-> 데모(배포 링크): **[GitHub Pages 주소를 여기에 적어주세요]**
+> 데모(배포 링크): **[https://jh9914.github.io/JH-Portfoilo/]**
 
 ---
 
